@@ -22,7 +22,7 @@ The project consists of a single Python script that handles data preprocessing, 
 
 ```
 ├── best_model.h5 (Saved model weights)
-└── main.py (Main script)
+└── ipython file
 ```
 
 ## Usage
