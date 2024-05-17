@@ -36,7 +36,7 @@ pip install tensorflow pandas numpy matplotlib scikit-learn
 2. Run the `main.py` script:
 
 ```
-python main.py
+run the notebook
 ```
 
 The script will perform the following steps:
